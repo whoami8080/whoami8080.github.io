@@ -1,0 +1,9 @@
+
+# HTID:17868857: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17868857:
+ErrorDocument 404 /404.html
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://whoami000.000webhostapp.com/$1 [R=301,L,NE]
+Header always set Content-Security-Policy "upgrade-insecure-requests;"
