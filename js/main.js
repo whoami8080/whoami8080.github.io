@@ -319,7 +319,7 @@ $(function(){
 
       var textDesc = [];
 
-          textDesc[0] = "Soʋɭ ʜʌcĸɘʀ";        
+          textDesc[0] = "Game Developer";        
  
           textDesc[1] = "Software programmer";
 
