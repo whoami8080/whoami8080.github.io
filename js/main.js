@@ -321,7 +321,7 @@ $(function(){
 
           textDesc[0] = "Game Developer";        
  
-          textDesc[1] = "Software programmer";
+          textDesc[1] = "Software programming(basic)";
 
           textDesc[2] = "Web developer";
 
@@ -331,7 +331,7 @@ $(function(){
 
           textDesc[5] = "Works at...";
 
-          textDesc[6] = "WHITE HAT ʜʌcĸɘʀ";
+          textDesc[6] = "whoami8080";
 
           textDesc[7] = "let's work together";
           
